@@ -155,9 +155,18 @@
     <ClCompile Include="ConsoleApplication2.c">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="geoid.c" />
+    <ClCompile Include="ionex.c" />
     <ClCompile Include="options.c" />
     <ClCompile Include="postpos_function.c" />
+    <ClCompile Include="preceph.c" />
+    <ClCompile Include="rinex.c" />
+    <ClCompile Include="rtcm.c" />
+    <ClCompile Include="rtcm2.c" />
+    <ClCompile Include="rtcm3.c" />
+    <ClCompile Include="rtcm3e.c" />
     <ClCompile Include="rtkcmn.c" />
+    <ClCompile Include="rtkpos.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

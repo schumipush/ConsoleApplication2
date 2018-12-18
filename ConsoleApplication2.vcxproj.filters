@@ -38,5 +38,32 @@
     <ClCompile Include="ConsoleApplication2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="preceph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="geoid.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtkpos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ionex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rinex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtcm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtcm2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtcm3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtcm3e.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
