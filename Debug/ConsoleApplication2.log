@@ -1,0 +1,4 @@
+﻿  postpos_function.c
+d:\program_opensourse\github\clanguagetry\consoleapplication2\consoleapplication2\postpos_function.c(16): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> D:\Program_OpenSourse\GitHub\CLanguageTry\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Program_OpenSourse\GitHub\CLanguageTry\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
