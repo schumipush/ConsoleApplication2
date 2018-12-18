@@ -1,5 +1,10 @@
+.gitignore
+
 # Prerequisites
 *.d
+
+*.tlog
+*.log
 
 # Object files
 *.o
