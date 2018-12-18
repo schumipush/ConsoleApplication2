@@ -65,5 +65,110 @@
     <ClCompile Include="rtcm3e.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="solution.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_binex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_cmr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_crescent.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_gw10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_javad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_novatel.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_nvs.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_rcvlex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_rt17.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_septentrio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_skytraq.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_ss2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_tersus.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcv_ublox.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convgpx.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convkml.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="convrnx.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="datum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="download.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ephemeris.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gis.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pntpos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ppp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ppp_ar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ppp_corr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="qzslex.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rcvraw.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rtksvr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbas.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stream.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="streamsvr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tides.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tle.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -155,11 +155,39 @@
     <ClCompile Include="ConsoleApplication2.c">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="convgpx.c" />
+    <ClCompile Include="convkml.c" />
+    <ClCompile Include="convrnx.c" />
+    <ClCompile Include="datum.c" />
+    <ClCompile Include="download.c" />
+    <ClCompile Include="ephemeris.c" />
     <ClCompile Include="geoid.c" />
+    <ClCompile Include="gis.c" />
     <ClCompile Include="ionex.c" />
+    <ClCompile Include="lambda.c" />
     <ClCompile Include="options.c" />
+    <ClCompile Include="pntpos.c" />
     <ClCompile Include="postpos_function.c" />
+    <ClCompile Include="ppp.c" />
+    <ClCompile Include="ppp_ar.c" />
+    <ClCompile Include="ppp_corr.c" />
     <ClCompile Include="preceph.c" />
+    <ClCompile Include="qzslex.c" />
+    <ClCompile Include="rcvraw.c" />
+    <ClCompile Include="rcv_binex.c" />
+    <ClCompile Include="rcv_cmr.c" />
+    <ClCompile Include="rcv_crescent.c" />
+    <ClCompile Include="rcv_gw10.c" />
+    <ClCompile Include="rcv_javad.c" />
+    <ClCompile Include="rcv_novatel.c" />
+    <ClCompile Include="rcv_nvs.c" />
+    <ClCompile Include="rcv_rcvlex.c" />
+    <ClCompile Include="rcv_rt17.c" />
+    <ClCompile Include="rcv_septentrio.c" />
+    <ClCompile Include="rcv_skytraq.c" />
+    <ClCompile Include="rcv_ss2.c" />
+    <ClCompile Include="rcv_tersus.c" />
+    <ClCompile Include="rcv_ublox.c" />
     <ClCompile Include="rinex.c" />
     <ClCompile Include="rtcm.c" />
     <ClCompile Include="rtcm2.c" />
@@ -167,6 +195,13 @@
     <ClCompile Include="rtcm3e.c" />
     <ClCompile Include="rtkcmn.c" />
     <ClCompile Include="rtkpos.c" />
+    <ClCompile Include="rtksvr.c" />
+    <ClCompile Include="sbas.c" />
+    <ClCompile Include="solution.c" />
+    <ClCompile Include="stream.c" />
+    <ClCompile Include="streamsvr.c" />
+    <ClCompile Include="tides.c" />
+    <ClCompile Include="tle.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
